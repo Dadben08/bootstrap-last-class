@@ -1,0 +1,153 @@
+
+body{
+    background-color: #1d1d1d !important;
+}
+.logo{
+    font-weight: 900;
+    color: white !important;
+}
+
+.instruct{
+    margin: 5px 30px 0 0;
+    color: #77A3B4;
+}
+ 
+.nav-background{
+    background-color: #2d2d2db9 !important;
+}
+
+
+.content{
+    display: flex;
+}
+ 
+.content h5
+{
+    font-size: 15px !important;
+}
+
+.avatar{
+height: 30px;
+width: 30px;
+border-radius: 50px;
+}
+
+.uls a{
+    color: #77A3B4 !important;
+}
+
+.learn{
+    display: flex;
+    justify-content: space-between !important;
+    margin: 45px 0 -180px 0 !important;
+}
+
+.learn h6{
+    color: #9aa7ab;
+    font-size: 15px;
+
+}
+
+.learn input{
+    color: #a8c0c7;
+    font-size: 12px;
+    width: 370px;
+    height: 40px;
+    padding: 10px;
+    background-color: #21212190;
+    border: 1px solid #9aa7ab;
+    border-radius: 3px !important;
+    margin-right: -60px;
+}
+
+.learn input:hover{
+    border: 1px solid rgb(82, 167, 200);
+}
+
+.check{
+    display: flex;
+    text-justify: space-between !important;
+    margin: 25px 0 0 0 !important;
+}
+
+.chexk input{
+    color: #d9dfe0;
+    font-size: 12px;
+    width: 200px;
+    height: 40px;
+    padding: 8px;
+    background-color: #21212190;
+    border: 1px solid #9aa7ab;
+    border-radius: 10px !important;
+
+}
+
+.check h6{
+    color: #9aa7ab;
+    font-size: 12px;
+
+}
+.hd{
+    display: flex;
+    margin: -50px 0px -70px -50px;
+    padding: 70px;
+}
+
+.bt{
+    border: 1px solid gray;
+    background-color: #21212190;
+}
+
+#deep{
+    margin: 12px 0 0 0;
+    color: white;
+    /* font-size: 10px; */
+}
+
+#ses{
+    color: skyblue;
+    padding: 10px;
+    margin-right: 40px;
+}
+
+#not{
+    background-image: url(/check-circle-regular-24.png);
+    background-repeat: no-repeat;
+    height: 30px;
+    width: 140px;
+    margin-left: 30px;
+    border-radius: 30px;
+    color: whitesmoke;
+    background-color: #21212190;
+    border: 1px solid gray;
+    text-align: center;
+    font-size: 12px;
+}
+
+
+.eme{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 100px;
+}
+
+.avatar1{
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+    float: left;
+
+}
+.btn3{
+    margin-left: 20px;
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: #18901ea0;
+    color: rgb(30, 179, 30);
+    border: none;
+}
+/* .stud{
+    margin-right: 70px;
+} */
+
